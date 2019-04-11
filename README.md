@@ -9,3 +9,7 @@ JavaScript Algorith Challenges with jest test kit
 - Common JS algorithm challenges
 - Alternative solutions
 - Testing
+
+[1] String Reversal Problem
+[2] Palindrome Problem
+[3] Reverse Integers
