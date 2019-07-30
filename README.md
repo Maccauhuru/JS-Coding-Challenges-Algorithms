@@ -11,5 +11,11 @@ JavaScript Algorith Challenges with jest test kit
 - Testing
 
 [1] String Reversal Problem
+
 [2] Palindrome Problem
+
 [3] Reverse Integers
+
+[4] Factorialize
+
+[5]Find Longest String
