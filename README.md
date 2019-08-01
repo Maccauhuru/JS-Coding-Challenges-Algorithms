@@ -18,4 +18,6 @@ JavaScript Algorith Challenges with jest test kit
 
 [4] Factorialize
 
-[5]Find Longest String
+[5] Find Longest String
+
+[6] Return Largest Number In Arrays
